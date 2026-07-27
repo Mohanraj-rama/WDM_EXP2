@@ -55,6 +55,9 @@ G40,high,yes,excellent,yes
 5) Select Choose button and then click on Apriori Algorithm.
 6) Click on Start button and output will be displayed on the right side of the window.
 
+
+
+
 ### OUTPUT:
 <img width="1918" height="1068" alt="image" src="https://github.com/user-attachments/assets/abb75e97-9992-46a9-8c4a-ec44feca2380" />
 
