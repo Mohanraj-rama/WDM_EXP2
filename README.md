@@ -1,4 +1,4 @@
-## EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
+## EXP2 Generating Association Rules for Employee dataset using Apriori Algorithm
 ### NAME: MOHANRAJ R
 ### REG NO: 212224230169
 ### DATE: 27.07.26
